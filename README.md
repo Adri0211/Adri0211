@@ -1,6 +1,6 @@
 # Hi there, I'm Adri!
 
-**Game Developer** | 💻 **Software Engineer**  
+**Game Developer** | **Software Engineer**  
 **Skills:** C#, Unity, 3D Art, VFX  
 **Learning:** Shaders, Procedural Generation  
 
