@@ -9,7 +9,7 @@
 
 <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adri0211&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<h3 align="left">🛠Languages:</h3>
+<h3 align="left">Languages:</h3>
 <p>
   <img src="https://img.shields.io/badge/-C%23-9c75d5"/>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&Color=white"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=242424"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
 </p>
-<h3 align="left">🛠Tools:</h3>
+<h3 align="left">Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
