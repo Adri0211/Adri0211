@@ -3,10 +3,6 @@
 **Generalist Game Developer** | **Software Engineer**  
 **Learning:** 3D Art, Tech Art, Procedural Generation  
 
-### Check out my Projects
-- Itch.io: [Adri_0211](https://adri-0211.itch.io/)
-- Portfolio: [adri-portfolio-nine.vercel.app](https://adri-portfolio-nine.vercel.app/)
-
 <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adri0211&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 <h3 align="left">Languages:</h3>
