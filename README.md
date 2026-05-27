@@ -1,7 +1,7 @@
 # Hi there, I'm Adri!
 
 **Generalist Game Developer** | **Software Engineer**  
-**Learning:** 3D Art, Tech Art, Procedural Generation  
+**Learning:** Computer Graphics, 3D Art, Tech Art, Procedural Generation  
 
 <img height="180em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adri0211&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
