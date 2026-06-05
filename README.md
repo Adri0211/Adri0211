@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/-CSS-663399?logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=242424"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black"/>
 </p>
 <h3 align="left">Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Godot-6090A0?logo=GodotEngine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?logo=unrealengine&logoColor=white"/>
 </p>
