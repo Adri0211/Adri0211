@@ -19,4 +19,5 @@
 <p>
   <img src="https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/-Blender-E87D0D?logo=Blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Godot-6090A0?logo=GodotEngine&logoColor=white"/>
 </p>
